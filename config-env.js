@@ -22,7 +22,7 @@ BOT_NUMBER = process.env.BOT_NUMBER
 BOT_NUMBER = envv2.BOT_NUMBER
 }
 if(process.env.SESSION_ID){
-SESSION_ID = process.env.SESSION_ID
+SESSION_ID = "PRABATH-MD~3epH0Doa#Lrza5_ikFJgr-QkZmsxk_jmbDhgcI0njNS1Vp4om_7o"
 }else{
 SESSION_ID = envv2.SESSION_ID
 }
